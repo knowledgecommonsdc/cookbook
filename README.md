@@ -1,4 +1,2 @@
-cooks
-=====
+# KCDC Community Cookbook
 
-KCDC Community Cookbook
